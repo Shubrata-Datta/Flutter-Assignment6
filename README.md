@@ -15,11 +15,12 @@ This repository contains a Flutter-based assignment project developed to practic
 ---
 
 ## 🗂️ Project Structure
+```
 lib/
--│── main.dart # Entry point of the application
--│── a1_task1.dart # Contains Task 1 implementation
--│── a1_task2.dart # Contains Task 2 implementation
-
+│── main.dart        # Entry point of the application
+│── a1_task1.dart    # Contains Task 1 implementation
+│── a1_task2.dart    # Contains Task 2 implementation
+```
 ---
 
 ## ⚙️ Features
